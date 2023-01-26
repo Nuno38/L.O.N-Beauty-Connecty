@@ -53,8 +53,14 @@ menu li ul{
     left: 50%;
     top: 50%;
     position: absolute;
-    width: 10%;
-    height: 10%;
+    width: auto;
+    height: auto;
+    font-size: 42px;
+    text-decoration: none;
+}.imagem_insta{
+      width: 35px;
+      height: 190px;
+     
 }
     
 
