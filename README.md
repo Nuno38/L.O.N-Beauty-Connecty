@@ -1,2 +1,3 @@
-# Sistema-de-Agendamento
-Sistema de agendamento de manicures online.
+# L.O.N
+# Beauty Connecty
+Sistema de agendamento de salão de beleza online.
