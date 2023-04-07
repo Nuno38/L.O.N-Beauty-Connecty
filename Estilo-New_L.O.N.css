@@ -1,5 +1,5 @@
 /* Definição tela 1280x720 */
-<!DOCTYPE html>
+
 :root{
     /*definição de variaveis*/
     --cor-de-fundo:#4d4b4a;
@@ -63,6 +63,7 @@ box-sizing: border-box;
     font-size: 22px;
 }
    /* ------Inicio-----*/ 
+    <!DOCTYPE html>
 html,body,:root{
     height: 100vh;
 }
