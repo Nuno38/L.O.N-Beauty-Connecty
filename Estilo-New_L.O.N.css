@@ -14,19 +14,8 @@
 box-sizing: border-box;
 
 }@media creen and(max-width:500px){
-    .principal{
-    background:no-repeat;
-    background-size: contain;
-    align-items: center; 
-    text-align: center;
-
-}.container{
-    height: 100vh;
-    display: grid;
-    grid-template-columns: 70% 30%;
-    
-    
-{ /*regra para resolução menores*/.container__imagem{
+    /*regra para resolução menores*/
+    .container__imagem{
     width: 200px;
     margin: -1350px 0px 400px 290px;
    
